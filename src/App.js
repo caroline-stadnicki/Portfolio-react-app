@@ -8,13 +8,13 @@ import Work from "./components/Work";
 
 function App() {
   return (
-    <div className="bg-[#0a192f]">
-    <Navbar />
-    <Home />
-    <About />
-    <Skills />
-    <Work />
-    <Contact/>
+    <div className="bg-[#0a192f] mb-0 pb-4 flex flex-col">
+    <Navbar className="flex" />
+    <Home className="flex" />
+    <About className="flex"/>
+    <Work className="flex"/>
+    <Skills className="flex"/>
+    <Contact className="flex"/>
   </div>
   );
 }

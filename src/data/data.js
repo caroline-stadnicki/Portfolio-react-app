@@ -8,7 +8,8 @@ export const data=[
         name:"Sweet As Organics",
         image: SweetAsOrganics,
         github:"https://github.com/harakeke-2023/sweet-as-organics-api-rtk/tree/caroline",
-        live:"To complete this project I had to manage relational data in a database and create a RESTful API using Node.js, Express and PostgreSQL. I also had to create a React application that consumes the API and uses Redux for state management.",
+        live:"",
+        description: "To complete this project I had to manage relational data in a database and create a RESTful API using Node.js, Express and PostgreSQL. I also had to create a React application that consumes the API and uses Redux for state management.",
     },
     {
         id:2,
@@ -23,7 +24,8 @@ export const data=[
         name:"Dreamfest",
         image:Dreamfest,
         github:"https://github.com/harakeke-2023/dreamfest/tree/caroline",
-        live:"That was a fun exercise that I completed during Bootcamp to practice managing relational databases and testing.",
+        live:"",
+        description:"That was a fun exercise that I completed during Bootcamp to practice managing relational databases and testing.",
     },
     // {
     //     id:4,

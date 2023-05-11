@@ -1,6 +1,4 @@
 import React from 'react';
-import { HiArrowNarrowRight } from 'react-icons/hi';
-
 const Home = () => {
   return (
     <div name='home' className='w-full h-screen bg-[#0a192f]'>
@@ -14,8 +12,7 @@ const Home = () => {
           I'm a Full Stack Web Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I’m a full-stack developer who loves building (and occasionally
-          designing) exceptional digital experiences.
+          I’m a full-stack developer who loves building exceptional digital experiences.
         </p>
         {/* <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>

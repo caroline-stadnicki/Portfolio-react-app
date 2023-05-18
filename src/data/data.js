@@ -9,7 +9,7 @@ export const data=[
         image: SweetAsOrganics,
         github:"https://github.com/harakeke-2023/sweet-as-organics-api-rtk/tree/caroline",
         live:"",
-        description: "To complete 'Sweet As Organics' I had to manage relational data in a database and create a RESTful API using Node.js, Express and PostgreSQL. I also had to create a React application that consumes the API and uses Redux for state management.",
+        description: "To complete 'Sweet As Organics' I had to manage relational data in a database and create a RESTful API using Node.js and Express. I also had to create a React application that consumes the API and uses Redux for state management.",
     },
     {
         id:2,

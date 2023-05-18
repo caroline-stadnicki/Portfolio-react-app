@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi, I'm Caroline Stadnicki. </p>
             </div>
             <div>
-              <p>I  am a Software Developer with a background as a Nurse in Neonatal Intensive Care Units. I have a passion for solving puzzles and tackling challenges, which led me to explore the field of programming. Through my curiosity and problem-solving skills, I discovered the endless possibilities of coding and the joy it brings. I am excited to embrace new challenges and collaborate with the fantastic people in this industry to continue to grow as a developer.</p>  
+              <p>I  am a Full-Stack Software Developer with a background as a Nurse in Neonatal Intensive Care Units. I have a passion for solving puzzles, tackling challenges and learning, which led me to explore the field of programming. Through my curiosity and problem-solving skills, I discovered the endless possibilities of coding and the joy it brings. I enrolled at Dev Academy on January of 2023, and through the intense 17-weeks programe I learned important technical and human skills to succeed in this career. I am excited to embrace new challenges and collaborate with the fantastic people in this industry to continue to grow as a developer.</p>  
             </div>
           </div>
       </div>

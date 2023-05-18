@@ -9,7 +9,7 @@ const Work = () => {
     //setProject(data);
   
   return (
-    <div name='work' className='w-full h-screen text-gray-300 bg-[#0a192f] my-6'>
+    <div name='work' className='w-full h-fit text-gray-300 bg-[#0a192f] my-6'>
       <div className='max-w-[1000px] m-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='py-8'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>

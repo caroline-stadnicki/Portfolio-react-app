@@ -15,7 +15,7 @@ const Work = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Work
           </p>
-          <p className='py-6'>Here is some of my recent projects</p>
+          <p className='py-6'>Here is some of my recent projects:</p>
         </div>
 
 {/* container for projects */}
@@ -46,15 +46,6 @@ const Work = () => {
             Code on GitHub
           </button>
         </a>
-        {/* eslint-disable-next-line */}
-        {/* <a href={item.live} target="_blank">
-          <button
-            className="text-center rounded-lg px-4 py-3 m-2
-                       bg-white text-gray-700 font-bold text-lg"
-          >
-            Open in Stackblitz
-          </button>
-        </a> */}
       </div>
     </div>
   </div>

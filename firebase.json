@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "carolinestadnicki-portfolio", 
-    "public": "src/public",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",

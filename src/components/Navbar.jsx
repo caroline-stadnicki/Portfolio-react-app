@@ -8,7 +8,7 @@ import {
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { Link } from 'react-scroll';
-import resume from '../assets/CV-reviewed-3.pdf';
+import resume from '../assets/CV.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);

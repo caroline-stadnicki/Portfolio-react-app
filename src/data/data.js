@@ -16,7 +16,7 @@ export const data=[
         name:"Waitless",
         image:Waitless,
         github:"https://github.com/harakeke-2023/Waitless",
-        live:"",
+        live:"https://orca-app-kf2qf.ondigitalocean.app/?fbclid=IwAR08Q9lgaKChTWesFzyYJjMxxAp6kY-_wKkokiMl-2TXcBAVRP8bdwQDFuY",
         description:"In 'Waitless', I created the menu page for the user and the admin views as well as the tests for those components, while collaborating with 4 other students to create a full stack application. We used React, Redux, Node.js, Express, PostgreSQL and TailwindCSS. I also enjoyed working with the Agile methodology, giving and receiving frequent feedback and working in a very diverse team."
     },
     {

@@ -47,6 +47,17 @@ const Work = () => {
           </button>
         </a>
       </div>
+      <div className="pt-8 text-center ">
+        {/* eslint-disable-next-line */}
+        <a href={item.live} target="_blank">
+          <button
+            className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+          >
+            Live
+          </button>
+        </a>
+      </div>
     </div>
   </div>
   <div className="pb-8">
